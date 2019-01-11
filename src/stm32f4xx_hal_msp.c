@@ -1,6 +1,6 @@
 /**
   ******************************************************************************
-  * @file   stm32fxx_hal_msp.c
+  * @file   stm32f4xx_hal_msp.c
   * @author Jordan Goulder
   * @brief  Implements MCU Support Package functions that perform low level
   *         peripheral initialization. This functions are called by the HAL.
